@@ -16,7 +16,7 @@ body:
     id: solution
     attributes:
       label: 需求建議
-      description: 需求需要單一且具體，請不要提諸如“優化界面”、“改善穩定性”這樣模糊的需求
+      description: 需求需要单一且具體，請不要提諸如“優化界面”、“改善穩定性”這樣模糊的需求
       placeholder: |
         1. 功能需求
         2. 實現方案
